@@ -74,7 +74,7 @@ h2{
     color: #d4d2d2;
 }
 
-.form-control.succses input{
+.form-control.success input{
     border-color: var(--success-color);
 }
 
@@ -91,7 +91,7 @@ h2{
     font-size: .8rem;
 }
 
-.form-controll.error small{
+.form-control.error small{
     visibility: visible;
 }
 
